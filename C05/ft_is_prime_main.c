@@ -8,6 +8,7 @@ int main()
 	printf("3 is prime ? %d\n", ft_is_prime(3));
 	printf("5 is prime ? %d\n", ft_is_prime(5));
 	printf("-13 is prime ? %d\n", ft_is_prime(-13));
+	printf("13 is prime ? %d\n", ft_is_prime(13));
 	printf("187003 is prime ? %d\n", ft_is_prime(187003));
 	printf("102561317 is prime ? %d\n", ft_is_prime(102561317));
 	printf("102561318 is prime ? %d\n", ft_is_prime(102561318));
