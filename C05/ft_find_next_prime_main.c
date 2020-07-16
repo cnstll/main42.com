@@ -6,7 +6,7 @@ int main()
 	printf("2 ? %d\n", ft_find_next_prime(1));
 	printf("2 ? %d\n", ft_find_next_prime(2));
 	printf("7 ? %d\n", ft_find_next_prime(6));
-	printf("0 ? %d\n", ft_find_next_prime(-13));
+	printf("2 ? %d\n", ft_find_next_prime(-13));
 	printf("187009 ? %d\n", ft_find_next_prime(187004));
 	printf("102561317 ? %d\n", ft_find_next_prime(102561317));
 	printf("102561337 ? %d\n", ft_find_next_prime(102561318));
